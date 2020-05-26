@@ -1,0 +1,11 @@
+E:\Workstation\DesktopTestApp\DesktopTestApp\bin\Debug\DesktopTestApp.exe.config
+E:\Workstation\DesktopTestApp\DesktopTestApp\bin\Debug\DesktopTestApp.exe
+E:\Workstation\DesktopTestApp\DesktopTestApp\bin\Debug\DesktopTestApp.pdb
+E:\Workstation\DesktopTestApp\DesktopTestApp\bin\Debug\DesktopTestApp.xml
+E:\Workstation\DesktopTestApp\DesktopTestApp\obj\Debug\DesktopTestApp.vbprojAssemblyReference.cache
+E:\Workstation\DesktopTestApp\DesktopTestApp\obj\Debug\DesktopTestApp.Form1.resources
+E:\Workstation\DesktopTestApp\DesktopTestApp\obj\Debug\DesktopTestApp.Resources.resources
+E:\Workstation\DesktopTestApp\DesktopTestApp\obj\Debug\DesktopTestApp.vbproj.GenerateResource.cache
+E:\Workstation\DesktopTestApp\DesktopTestApp\obj\Debug\DesktopTestApp.exe
+E:\Workstation\DesktopTestApp\DesktopTestApp\obj\Debug\DesktopTestApp.xml
+E:\Workstation\DesktopTestApp\DesktopTestApp\obj\Debug\DesktopTestApp.pdb
